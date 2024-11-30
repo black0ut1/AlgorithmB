@@ -1,4 +1,5 @@
-Implementatons of B algorithm in Java and C++ used in article, which is currently sent to DS-RT 2024 conference.
-Url to article will be added.
+Implementatons of B algorithm in Java and C++ used in following article (URL will be added):
+
+T. Potuzak, P. Pernicka, F. Kolovsky: Comparison of Parallel B Static Traffic Assignment Algorithm Implementation in Java and C++, Proceedings 2024 28th International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2024), Urbino, October 2024, pp. 136-139
 
 Datasets: https://github.com/bstabler/TransportationNetworks
